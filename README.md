@@ -1,3 +1,5 @@
+Reworking Tricorder app to work with original Pebble smartwatch
+
 Tricorder
 =========
 
